@@ -1,0 +1,30 @@
+_repo: Ruysbroeck_37870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Underhill, Evelyn
+    aliases:
+    - Moore, Stuart, Mrs.
+    - Moore, Mrs. Stuart
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '5830'
+    url: http://www.gutenberg.org/2009/agents/5830
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Underhill
+description: ''
+gutenberg_issued: '2011-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Ruusbroec, Jan van, 1293-1381'
+title: Ruysbroeck
+url: http://www.gutenberg.org/ebooks/37870
